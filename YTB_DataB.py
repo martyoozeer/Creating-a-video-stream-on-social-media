@@ -29,7 +29,7 @@ num_users = 1000  # Set the number of unique users you'd like to generate
 # Generate user_ids
 user_ids = [f"user_{i+1}" for i in range(num_users)]
 
-# Créer une liste pour stocker les données
+# Create a list 
 data = []
 
 # For each user, select 5 random videos
